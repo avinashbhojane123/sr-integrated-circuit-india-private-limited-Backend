@@ -22,4 +22,4 @@ import { StudentsModule } from './students/students.module';
     StudentsModule,
   ],
 })
-export class AppModule {}
+export class AppModule { }
